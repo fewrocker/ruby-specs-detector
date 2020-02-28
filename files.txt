@@ -1,0 +1,115 @@
+ 1  app/controllers/tasks_controller.rb   2 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  25  app/decorators/step_decorator.rb   1 issue
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  2  app/decorators/stories/step_details_decorator.rb   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  239  app/javascript/packs/components/elements/task_card.vue   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  81  app/javascript/packs/components/pages/task_dashboard.vue   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  4  app/models/freelancers/task.rb   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  58  app/views/tasks/index.json.jbuilder   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  3  config/locales/pt-BR/main.yml   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  8  config/locales/pt-BR/steps.yml   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  13  config/locales/pt-BR/tasks.yml   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  5  db/migrate/20200108144141_update_new_tasks_to_version_3.rb   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  15  db/migrate/20200124161646_update_tasks_to_version_39.rb   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  5  db/migrate/20200124163456_update_materialized_tasks_to_version_2.rb   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  73  db/structure.sql   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  3  db/views/materialized_tasks_v02.sql   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  233  db/views/new_tasks_v03.sql   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  222  db/views/tasks_v39.sql   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  18  public/assets/images/icons.svg   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+  15  spec/requests/tasks_spec.rb   0 issues
+CODE CLIMATE OPTIONS
+Show issues
+Show test coverage
+ Highlight covered lines
+Viewed
+
